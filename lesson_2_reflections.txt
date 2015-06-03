@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git lays the ground work for logging commits.
+You need to do this so in order to have a place to store changes in metadata.
+
